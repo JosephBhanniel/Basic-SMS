@@ -1,1 +1,1 @@
-# Basic-SMS
+# Basic-SMS with django
